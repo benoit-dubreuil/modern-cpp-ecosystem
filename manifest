@@ -2,7 +2,7 @@
 name: try_build2
 version: 0.1.0-a.0.z
 summary: try_build2 C++ executable
-license: other: proprietary ; Not free/open source.
+license: GPL-3.0-or-later
 description-file: README.md
 url: https://example.org/try_build2
 email: benoit-dubreuil@users.noreply.github.com
