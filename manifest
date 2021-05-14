@@ -1,0 +1,11 @@
+: 1
+name: try_build2
+version: 0.1.0-a.0.z
+summary: try_build2 C++ executable
+license: other: proprietary ; Not free/open source.
+description-file: README.md
+url: https://example.org/try_build2
+email: benoit-dubreuil@users.noreply.github.com
+depends: * build2 >= 0.13.0
+depends: * bpkg >= 0.13.0
+#depends: libhello ^1.0.0
