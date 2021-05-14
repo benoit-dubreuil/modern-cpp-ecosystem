@@ -1,5 +1,25 @@
-try_build2
+.bdep/
 
-# Testscript output directory (can be symlink).
+# Local default options files.
 #
-test-try_build2
+.build2/local/
+
+# Compiler/linker output.
+#
+*.d
+*.t
+*.i
+*.ii
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.exe
+*.exe.dlls/
+*.exe.manifest
+*.pc
