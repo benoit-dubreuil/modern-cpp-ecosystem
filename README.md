@@ -1,2 +1,2 @@
-# modern-cpp-ecosystem
+# Modern C++ Ecosystem
 Build2
